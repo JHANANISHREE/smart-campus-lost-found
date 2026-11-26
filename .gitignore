@@ -1,0 +1,32 @@
+# Java / Maven artifacts
+backend/target/
+target/
+.m2/
+*.class
+
+# Tools & Local Binaries
+tools/
+
+# Node / Frontend artifacts
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+.eslintcache
+
+# File uploads
+uploads/
+backend/uploads/
+
+# IDE configurations
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
